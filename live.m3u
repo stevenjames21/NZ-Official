@@ -1,4 +1,6 @@
-# NZ-Official#EXTM3U
+#EXTM3U
+#EXTINF:-1,[COLOR red]NZ TV playlist bought to you by Apsattv.com TVNZ1 and 2 added 26/06/17 all streams are public and Official[/COLOR]
+http://127.0.0.1
 #EXTINF:-1,TVNZ 1 (Official Stream)
 https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/master.m3u8
 #EXTINF:-1,TVNZ 2 (Official Stream)
