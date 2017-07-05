@@ -1,0 +1,67 @@
+# NZ-Official#EXTM3U
+#EXTINF:-1,TVNZ 1 (Official Stream)
+https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/master.m3u8
+#EXTINF:-1,TVNZ 2 (Official Stream)
+https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
+#EXTINF:-1,TV 3 (Official Stream)
+https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/tv3_live_https/master.m3u8|X-Forwarded-For=219.88.222.96
+#EXTINF:-1,Bravo (Official Stream)
+https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/bravo_live_https/master.m3u8|X-Forwarded-For=219.88.222.95
+#EXTINF:-1,TVNZ Duke (Official Stream)
+https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlist.m3u8?|X-Forwarded-For=101.100.88.89
+#EXTINF:-1,Maori Television test (live @12p.m/6.30pm)
+https://bcliveios-i.akamaihd.net/hls/live/261526/1614493167001/master.m3u8
+#EXTINF:-1,Parliament TV (Official Stream)
+http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
+#EXTINF:-1,Parliament TV alt (Official Stream)
+http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+#EXTINF:-1,CTV TV8 (Official stream)
+http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8
+#EXTINF:-1,TV 33 (Official stream)
+http://edge1.worldnettv.co.nz/live/tv33.stream/playlist.m3u8
+#EXTINF:-1,Al Jazeera English (Official stream)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1,Wairarapa TV (Official stream)
+https://stream.wairarapatv.co.nz/playlist.m3u8
+#EXTINF:-1,The Edge TV (official)
+https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/theedgetv_live_https/master.m3u8|X-Forwarded-For=219.88.222.91
+#EXTINF:-1,TVSN (Official stream)
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF:-1,Shine TV (Official stream)
+http://rhema.streamguys1.com/live/smil:shinetv.smil/chunklist_w1926280642_b1280000.m3u8
+#EXTINF:-1,Firstlight (Official stream)
+rtmp://streamer1.streamhost.org/salive/GMIFLNL
+#EXTINF:-1,Hope Channel International (Official stream)
+http://bcliveuniv-lh.akamaihd.net/i/HopeInternational_1@193092/master.m3u8
+#EXTINF:-1,Ankhila Punjabi TV NZ (down at the moment) (Official stream)
+http://wpc.c175.taucdn.net/hls-live/20C175/ankhilapunjabz/wmlkjkj5343utueuuwxssd/rbstreamrb.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.101+Safari/537.36
+#EXTINF:-1,Fiji One (Official stream) needs livestream addon
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=&event_id=6947821&owner_id=19514369&video_id=LIVE&quot
+#EXTINF:-1,TV Tonga test (3pm to 12a.m) may not be working..
+http://letiotongaa3z.srfms.com/live/livestream_tbc1.flv/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Bonus World Channels[/COLOR]
+http://0.1.5.0:80
+#EXTINF:-1,Sky News U.K
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1,France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1,Russia Today
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
+#EXTINF:-1,NHK World
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1,Euronews
+http://43.224.120.99:8080/euronews.m3u8
+#EXTINF:-1,DW English
+http://43.224.120.99:8080/dwenglish.m3u8
+#EXTINF:-1,NASA TV Public
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+#EXTINF:-1,NASA TV Media Channel
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master_2000.m3u8
+#EXTINF:-1,[COLOR blue]Misc testing and experimental[/COLOR]
+http://0.1.5.1:80
+#EXTINF:-1,TVNZ parttime (works when active)
+http://tvnz_hdlive_ios-i.akamaihd.net/hls/live/202987/963482464001/Digilive1.m3u8
+#EXTINF:-1,TV3 live news etc (works when active)
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1,TV3 live event Coverage (usually black screen sometimes live video)
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/event_live/master.m3u8
