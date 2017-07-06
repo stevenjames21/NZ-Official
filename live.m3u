@@ -65,3 +65,127 @@ http://tvnz_hdlive_ios-i.akamaihd.net/hls/live/202987/963482464001/Digilive1.m3u
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 #EXTINF:-1,TV3 live event Coverage (usually black screen sometimes live video)
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/event_live/master.m3u8
+#EXTINF:-1,(INT) AQUARIUM TV  IPTVultra.com [1280x720]
+http://163.172.217.221:1935/tv/cheminee_tv/playlist.m3u8
+#EXTINF:-1,(INT) VEVO PLAY 3 HD  IPTVultra.com [960x540]
+http://188.165.213.130/tv/i-04.m3u8
+#EXTINF:-1,(INT) AQUARIUM TV  IPTVultra.com [1280x720]
+http://163.172.217.221:1935/tv/AQUARIUM/playlist.m3u8
+#EXTINF:-1,(INT) AQUARIUM TV  IPTVultra.com [1280x720]
+http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8
+#EXTINF:-1,IND: SONY MAX  IPTVultra.com [544x576]
+http://164.132.219.57:3838/live/kingdiabdoiptvskupe/C4Ral3PiAt/344.ts
+#EXTINF:-1,(INT) VEVO PLAY 2 HD  IPTVultra.com [960x540]
+http://188.165.213.130/tv/d-04.m3u8
+#EXTINF:-1,(INT) VEVO PLAY 1 HD  IPTVultra.com [960x540]
+http://188.165.213.130/tv/04.m3u8
+#EXTINF:-1,SINS OF OUR FATHERS 3 XXX  IPTVultra.com [704x404]
+http://158.69.226.108:8000/movie/carlo/carlo1/2156.mp4
+#EXTINF:-1,IND: ZEE CINEMA  IPTVultra.com [1280x720]
+http://164.132.219.57:3838/live/kingdiabdoiptvskupe/C4Ral3PiAt/147.ts
+#EXTINF:-1,IND: STAR PLUS  IPTVultra.com [544x576]
+http://164.132.219.57:3838/live/kingdiabdoiptvskupe/C4Ral3PiAt/345.ts
+#EXTINF:-1,CINE Polar  IPTVultra.com [1920x1088]
+http://173.212.194.126:8000/live/58965889362952/1593574628/160.ts
+#EXTINF:-1, B4U Movies  IPTVultra.com [720x416]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6869.ts
+#EXTINF:-1, & TV  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6866.ts
+#EXTINF:-1,IND: STAR GOLD  IPTVultra.com [544x576]
+http://164.132.219.57:3838/live/kingdiabdoiptvskupe/C4Ral3PiAt/266.ts
+#EXTINF:-1,IND: ZEE TV HD  IPTVultra.com [960x544]
+http://164.132.219.57:3838/live/kingdiabdoiptvskupe/C4Ral3PiAt/172.ts
+#EXTINF:-1, DESI BEATS  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6853.ts
+#EXTINF:-1, B4U Plus  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6871.ts
+#EXTINF:-1, Sony SAB  IPTVultra.com [704x576]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6901.ts
+#EXTINF:-1, Colors  IPTVultra.com [704x400]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6876.ts
+#EXTINF:-1,CINE FX  IPTVultra.com [640x368]
+http://173.212.194.126:8000/live/58965889362952/1593574628/1617.ts
+#EXTINF:-1, Kiran TV  IPTVultra.com [704x400]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6847.ts
+#EXTINF:-1,(INT) AQUARIUM TV  IPTVultra.com [1280x720]
+http://163.172.217.221:1935/tv/rnbrap/playlist.m3u8
+#EXTINF:-1, Life oK UK  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6878.ts
+#EXTINF:-1, Jaya Max Tamil  IPTVultra.com [704x400]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6873.ts
+#EXTINF:-1, B4U Music  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6870.ts
+#EXTINF:-1, Star Plus  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6863.ts
+#EXTINF:-1, Star Sports 3  IPTVultra.com [864x480]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6859.ts
+#EXTINF:-1, Star Plus UK  IPTVultra.com [1280x736]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6864.ts
+#EXTINF:-1, Sun Music  IPTVultra.com [720x416]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6845.ts
+#EXTINF:-1, Sun TV  IPTVultra.com [704x400]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6846.ts
+#EXTINF:-1, Ten 1  IPTVultra.com [704x400]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6851.ts
+#EXTINF:-1, Zee Action  IPTVultra.com [640x480]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6888.ts
+#EXTINF:-1, Ten Golf.  IPTVultra.com [640x368]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6848.ts
+#EXTINF:-1, ASIANET PLUS  IPTVultra.com [720x416]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6897.ts
+#EXTINF:-1, Zee Anmol  IPTVultra.com [640x480]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6882.ts
+#EXTINF:-1, Zee Cinema Bangla.  IPTVultra.com [704x400]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6884.ts
+#EXTINF:-1, ZEE Tami  IPTVultra.com [640x480]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6880.ts
+#EXTINF:-1, Discovery  IPTVultra.com [480x272]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6855.ts
+#EXTINF:-1, Jaya Movies Tamil  IPTVultra.com [720x416]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6874.ts
+#EXTINF:-1, Sun News  IPTVultra.com [0x0]
+http://89.38.96.153/live/azk/azk/4115.ts
+#EXTINF:-1, Zee NEWS  IPTVultra.com [640x480]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6887.ts
+#EXTINF:-1, Akaal Channel  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/3910.ts
+#EXTINF:-1, Geo Tez  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/4177.ts
+#EXTINF:-1, Zee Talkies  IPTVultra.com [640x480]
+http://173.212.194.126:8000/live/58965889362952/1593574628/6891.ts
+#EXTINF:-1, Dunya TV  IPTVultra.com [720x576]
+http://89.38.96.153/live/azk/azk/3917.ts
+#EXTINF:-1, Geo News  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/3914.ts
+#EXTINF:-1, B4U Movies  IPTVultra.com [704x576]
+http://89.38.96.153/live/azk/azk/3906.ts
+#EXTINF:-1, SONY SAB  IPTVultra.com [704x576]
+http://89.38.96.153/live/azk/azk/2706.ts
+#EXTINF:-1, SETMAX  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/2704.ts
+#EXTINF:-1, Samaa TV  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/3916.ts
+#EXTINF:-1, Brit Asia TV  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/4152.ts
+#EXTINF:-1, ABP News  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/3908.ts
+#EXTINF:-1, Geo News Inter  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/4176.ts
+#EXTINF:-1, Geo TV  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/3913.ts
+#EXTINF:-1, PTV Prime  IPTVultra.com [720x576]
+http://89.38.96.153/live/azk/azk/3912.ts
+#EXTINF:-1, Rishtey  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/3918.ts
+#EXTINF:-1, And TV  IPTVultra.com [720x576]
+http://89.38.96.153/live/azk/azk/3909.ts
+#EXTINF:-1, Aajtak TV  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/2710.ts
+#EXTINF:-1, Hum TV  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/3915.ts
+#EXTINF:-1, ZING  IPTVultra.com [544x576]
+http://89.38.96.153/live/azk/azk/2705.ts
+#EXTINF:-1, Sun Kiran  IPTVultra.com [0x0]
+http://89.38.96.153/live/azk/azk/4113.ts
+#EXTINF:-1, ZEE TV  IPTVultra.com [720x576]
+http://89.38.96.153/live/azk/azk/3279.ts
